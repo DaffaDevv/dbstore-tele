@@ -1,13 +1,5 @@
 {
   "ravagestore": {
-    "database-telegram": {
-      "saldo": {}
-    }
-  },
-  "saldo": {
-    "6216902201": {
-      "username": "daffa030107",
-      "saldo": 0
-    }
+    "database-telegram": {}
   }
 }
